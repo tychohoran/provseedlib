@@ -8,13 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: > # this means to ignore newlines until "baseurl:"
-  Providence Seed Library is a public seed library 
-  offering free open-pollinated, heirloom, culturally 
-  relevant, and indigenous seeds. The collections are 
-  housed at Providence Community Library and Providence 
-  Public Library branches.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://provseedlib.com" # the base hostname & protocol for your site
+description: 'Providence Seed Library is a public seed library  offering free open-pollinated,
+  heirloom, culturally  relevant, and indigenous seeds. The collections are  housed
+  at Providence Community Library and Providence  Public Library branches.
+
+'
+baseurl: ''
+url: http://provseedlib.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: jekyll
